@@ -10,30 +10,6 @@
 	UIN: 934004488
 	Date: 09-28-2025
 */
-/*
-	Original author of the starter code
-    Tanzir Ahmed
-    Department of Computer Science & Engineering
-    Texas A&M University
-    Date: 2/8/20
-	
-	Please include your Name, UIN, and the date below
-	Name: Ahmed Albsharat
-	UIN: 934004488
-	Date: 09-28-2025
-*/
-/*
-	Original author of the starter code
-    Tanzir Ahmed
-    Department of Computer Science & Engineering
-    Texas A&M University
-    Date: 2/8/20
-	
-	Please include your Name, UIN, and the date below
-	Name: Ahmed Albsharat
-	UIN: 934004488
-	Date: 09-28-2025
-*/
 #include "common.h"
 #include "FIFORequestChannel.h"
 
